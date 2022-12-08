@@ -1,4 +1,4 @@
-# SQL Database Project 
+# SQL Database
 
 
 ### Complete the following steps to complete the project: 
